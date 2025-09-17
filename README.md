@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Parv 👋
+Resume: [View PDF](https://drive.google.com/file/d/1Yvod7ZvTHm1Z0ViczZVglOub-KoVYJOF/view?usp=sharing)
 
-<!--
-**parikhparv/parikhparv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a sophomore at Boston University majoring in Computer Science with a minor in Mathematics. I have a strong passion for algorithm design and optimizing solutions to complex problems. I would like to utilize my skills to contribute to impactful projects and continue growing as a developer.
 
-Here are some ideas to get you started:
+## Skills & Interests
+• Programming (Python, Java, SQL, C++, C)<br>
+• Software Development (Git, Jira, Agile)<br>
+• Web Development (JavaScript, TypeScript, HTML/CSS)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me:
+• Email: pparikh1@bu.edu<br>
+• LinkdIn: https://www.linkedin.com/in/pparikh15

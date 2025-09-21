@@ -11,4 +11,4 @@ I’m a sophomore at Boston University majoring in Computer Science with a minor
 
 ## How to Reach Me:
 • Email: pparikh1@bu.edu<br>
-• LinkdIn: https://www.linkedin.com/in/pparikh15
+• LinkedIn: https://www.linkedin.com/in/pparikh15
